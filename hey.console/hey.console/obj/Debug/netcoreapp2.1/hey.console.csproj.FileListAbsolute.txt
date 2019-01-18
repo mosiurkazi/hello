@@ -1,0 +1,11 @@
+F:\works\hello\hey.console\hey.console\bin\Debug\netcoreapp2.1\hey.console.deps.json
+F:\works\hello\hey.console\hey.console\bin\Debug\netcoreapp2.1\hey.console.runtimeconfig.json
+F:\works\hello\hey.console\hey.console\bin\Debug\netcoreapp2.1\hey.console.runtimeconfig.dev.json
+F:\works\hello\hey.console\hey.console\bin\Debug\netcoreapp2.1\hey.console.dll
+F:\works\hello\hey.console\hey.console\bin\Debug\netcoreapp2.1\hey.console.pdb
+F:\works\hello\hey.console\hey.console\obj\Debug\netcoreapp2.1\hey.console.csprojAssemblyReference.cache
+F:\works\hello\hey.console\hey.console\obj\Debug\netcoreapp2.1\hey.console.csproj.CoreCompileInputs.cache
+F:\works\hello\hey.console\hey.console\obj\Debug\netcoreapp2.1\hey.console.AssemblyInfoInputs.cache
+F:\works\hello\hey.console\hey.console\obj\Debug\netcoreapp2.1\hey.console.AssemblyInfo.cs
+F:\works\hello\hey.console\hey.console\obj\Debug\netcoreapp2.1\hey.console.dll
+F:\works\hello\hey.console\hey.console\obj\Debug\netcoreapp2.1\hey.console.pdb
